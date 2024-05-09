@@ -7,3 +7,5 @@ The ip of the mqtt brocker server can be updated by changing the "" field in the
 The topic name is provided in the config.h file
 
 Please note that the MQTT updates will be added soon
+
+This code was tested on Nordic's nrf7002DK board
