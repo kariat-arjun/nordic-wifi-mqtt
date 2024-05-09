@@ -5,3 +5,5 @@ Wifi's SSID and password can be updated by changing the fields, CONFIG_STA_SAMPL
 
 The ip of the mqtt brocker server can be updated by changing the "" field in the prj.conf file 
 The topic name is provided in the config.h file
+
+Please note that the MQTT updates will be added soon
